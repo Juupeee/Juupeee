@@ -37,16 +37,6 @@ Most of my projects use JavaScript, TypeScript, React, Next.js, Node.js, and Sol
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge\&logo=web3.js\&logoColor=white)
 
 
-## GitHub Stats
-
-<div align="center">
-
-![Jupri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juupeee\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juupeee\&layout=compact\&hide_border=true\&theme=transparent)
-
-</div>
-
 ## Find Me
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://jupe.dev)
